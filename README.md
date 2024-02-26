@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Bering</h1>
 
-<h3 align="center">A Dev FullStack from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="br"> </h3>
+<h3 align="center">Dev FullStack from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="br"> </h3>
 
 - 👨‍💻 All of my projects are available at **github.com/DevRafaelBering** <a href="https://github.com/DevRafaelBering " target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="30" height="30">
 
