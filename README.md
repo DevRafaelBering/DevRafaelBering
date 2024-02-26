@@ -34,3 +34,6 @@
 </div><br/>
 
 Passionate about technology, education and changing people's lives through programming.
+##
+![Snake animation](https://github.com/DevRafaelBering/DevRafaelBering/blob/output/github-contribution-grid-snake.svg)
+
