@@ -35,6 +35,3 @@
 
 Passionate about technology, education and changing people's lives through programming.
 ##
-![Snake animation](https://github.com/DevRafaelBering/DevRafaelBering/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DevRafaelBering&repo=DevRafaelBering&theme=react)](https://github.com/DevRafaelBering/DevRafaelBering)
