@@ -33,4 +33,4 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Passionate about technology, education and changing people's lives through programming.
