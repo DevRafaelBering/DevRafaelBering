@@ -1,6 +1,4 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+ I'm +Rafael Bering!;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Rafael Bering</h1>
 
 <h3 align="center">Dev FullStack from Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="br"> </h3>
 
