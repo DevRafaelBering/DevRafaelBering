@@ -12,7 +12,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/rafael-bering" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RafaelBering" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/rafael-bering" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="RafaelBering" height="30" width="40" /></a>
 ##
 <div>
 <a href="https://github.com/DevRafaelBering">
