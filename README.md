@@ -32,5 +32,5 @@
   
 </div><br/>
 
-Passionate about technology, education and changing people's lives through programming.
+Passionate about technology, education, and changing people's lives through programming.
 ##
